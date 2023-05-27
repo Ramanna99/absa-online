@@ -1,6 +1,6 @@
 package com.elite.absa.model;
 
-public class Login {
+public class Login { 
 
 	private String username;
 

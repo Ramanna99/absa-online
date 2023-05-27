@@ -8,7 +8,7 @@
 </script>
 <title>Welcome</title>
 </head>
-<body bgcolor="tomato">
+<body bgcolor="red">
 	<table align="center">
 		<tr>
 			<td><a href="login">Login</a></td>
