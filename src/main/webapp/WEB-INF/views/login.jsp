@@ -6,7 +6,7 @@
 <title>Login</title>
 <script src="${pageContext.request.contextPath}/resources/js/sample.js"></script>
 </head>
-<body bgcolor="tomato">
+<body bgcolor="green">
 
 	<form:form id="loginForm" modelAttribute="login" action="loginProcess"
 		method="post">
